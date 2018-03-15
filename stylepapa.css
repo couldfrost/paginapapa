@@ -1,0 +1,176 @@
+header {
+    background: rgba(193, 148, 59, 0.90);
+    width: 100%;
+    position: fixed;
+    z-index: 50;
+    color:white;
+    top:0;
+    left: 0;
+text-align: center;
+min-width: 900px;
+
+  }
+  li{
+      display: inline-block;
+      padding-top: 10px;
+      padding-left: 25px;
+      padding-right: 25px;
+      padding-bottom: 8px;
+  }
+nav li{
+    margin-top: 5px;
+    margin-left: 10px;
+    display :inline-block;
+
+
+}
+
+nav.menu{
+   display:inline-block;
+    text-align: center;
+   
+}
+body
+{
+    font-family: Arial, Verdana, Tahoma;
+    min-width: 900px;
+    background-color: rgba(243, 225, 113, 0.80);
+}
+.left {
+    margin-left: 10px;
+    float :left;
+    margin-left: 10px;
+}
+nav.menu  li:hover{
+    background-color: gray;
+    
+    
+}
+.right{
+    
+    display:block;
+    margin: 10px;
+    float: right;
+    width: 150px;
+    /*margin: 0.5%;*/
+}
+
+img.papa{
+    float: center;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+figure h1.titulo{
+    float: center;
+    
+    top :50%;
+}
+ul{
+    display:inline-block;
+}
+.fondo{
+    margin-top:77px;
+    background-image:url("imagenes/Ske_OwrBg_930x525.jpg");
+    height: 500px;
+    background-size: 25px 50px;
+    background-size: 50% 50%;
+    margin-bottom:15px;
+    
+    
+    
+    
+}
+
+.francisco{
+    width: 280px;
+    margin-left: 40%;
+    margin-top: 2%;
+    border-radius: 100px;
+    border: 5px solid #A2A006;
+    border-style: inset;
+}
+h1.nombre{
+
+    margin-top:-7px;
+}
+
+h2.nombre{
+    margin-top:-15px;
+
+}
+h2.cursiva{
+
+    font-style: italic;
+    margin-top:-15px;
+}
+.letras{
+    text-align: center;
+    color: #887A23;
+    text-shadow: 3px 2px #010100;
+}
+.sub{
+    padding:-15px;
+    text-align: center;
+    border: 5px solid gray;
+    border-style: outset;
+    margin-top: 5px;
+}
+.sub h1{
+    color: #A0620E;
+    text-shadow: 3px 2px #010100;
+}
+.sub p{
+    color: #3F3119;
+}
+.lineal div{
+    display: inline-block;
+    border: 5px solid #4B3D15;
+    width: 300px;
+    height: 150px;
+    margin-left: 120px;
+    margin-top: 20px;
+    text-align: center;
+    background: white;
+    
+}
+.lineal div h2{
+    color: #DEA75D;
+    text-shadow: 3px 2px #010100;
+}
+.lineal div p{
+    color: #3F3119;
+}
+.bt1 a:link, a:visited {
+    background-color: #EE9608;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 100px;
+}
+.bt1 a:hover, a:active {
+    background-color: #E8BE46;
+}
+.lineal2 div{
+    display: inline-block;
+    width: 300px;
+    height: 150px;
+    margin-left: 120px;
+    margin-top: 20px;
+    text-align: center;
+    
+    
+}
+.bt2 a:link, a:visited {
+    background-color: #EFECE8;
+    color: #AC4E0D;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 100px;
+}
+.bt2 a:hover, a:active {
+    background-color: #A95F0B;
+}
